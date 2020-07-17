@@ -1,0 +1,13 @@
+G:\Visual Studio\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.exe
+G:\Visual Studio\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.deps.json
+G:\Visual Studio\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.json
+G:\Visual Studio\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.dev.json
+G:\Visual Studio\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.dll
+G:\Visual Studio\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.pdb
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csprojAssemblyReference.cache
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfoInputs.cache
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfo.cs
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csproj.CoreCompileInputs.cache
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.dll
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.pdb
+G:\Visual Studio\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.genruntimeconfig.cache
